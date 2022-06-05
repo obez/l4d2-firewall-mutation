@@ -1,0 +1,27 @@
+"firewall"
+{
+  "base"          "coop"
+  "maxplayers"    "4"
+  "singlechapter" "1"
+
+  "DisplayTitle"     "Firewall"
+  "ShortDescription" "Firewall mutation, fight with molotovs only"
+  "Description"      "Bar the route of other players so they get mobbed by tanks or simply burn your friends to death. Last player alive scores 1 point."
+
+  "Image"   "vgui/mutation_mod"
+  "Author"  "obez"
+
+  convar
+  {
+    ai_talk_idle_enabled 0
+    defibrillator_return_to_life_time 0.0
+    hud_targetid_name_height 999999
+    pipe_bomb_initial_beep_interval 0.4
+    pipe_bomb_timer_duration 2
+    sb_friendlyfire 1
+    survivor_autolook_voc_delay 999999
+    sv_permawipe 0
+    z_friendly_fire_forgiveness 0
+    z_survivor_respawn_health 100
+  }
+}

@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+  addonSteamAppID     550
+  addontitle          "Firewall mutation"
+  addonversion        1
+  addontagline        "Run from molotovs and tanks"
+  addonauthor         "obez"
+  addonSteamGroupName "TankPlaygrnd"
+  addonauthorSteamID  "STEAM_0:1:22154623"
+  addonURL0           "http://steamcommunity.com/sharedfiles/filedetails/?id=306083806"
+  addonDescription    "Hide and Seek and Tanks and Molotovs"
+  addonContent_Script 1
+}

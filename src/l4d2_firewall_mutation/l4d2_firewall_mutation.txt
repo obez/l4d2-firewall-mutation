@@ -1,0 +1,46 @@
+Firewall mutation v1.0, by obez - 2016-08-xx
+
+Changelog ---------------------------------------------------------------------
+  1.0 (2016-08-xx)
+    - Initial release
+
+Info --------------------------------------------------------------------------
+
+A little mutation idea we had while playing Tank Arena with friends.
+
+Bar the route of other players so they get mobbed by tanks or simply burn your
+friends to death.
+
+Last player alive scores 1 point.
+
+Guns don't deal damage to players, only molotovs do.
+
+Fire deals the same damage in all difficulties (Expert damage).
+
+Only temporary health is allowed (Medkits and defibrillators are removed).
+
+No incap or ledge grab, death.
+
+Use the command "!stats" in chat to display players statistics (points, kills,
+deaths) in the console.
+
+Restarting the campaign resets the scores to 0.
+
+Survivor voices for tank warning and molotov throw are muted, to allow more
+stealth. Players halos are also disabled.
+
+1 Molotov is randomly spawned every 10s at existing molotovs positions.
+
+The mutation was designed to be played with Tank Arena but it should work with
+all the coop maps.
+
+Known Issues / Bugs -----------------------------------------------------------
+
+Previous updates --------------------------------------------------------------
+
+Plans -------------------------------------------------------------------------
+
+Misc notes --------------------------------------------------------------------
+
+Thanks to ---------------------------------------------------------------------
+  - Feedback and test sessions: Bloody Moon, Mister
